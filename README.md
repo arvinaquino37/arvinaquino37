@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arvin</h1>
-<h3 align="center">A passionate Mobile Developer from Philippines</h3>
+<h3 align="center">Mobile Developer from Philippines</h3>
 
 - 📫 How to reach me **arvinaquino37@gmail.com**
 
