@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arvin</h1>
 <h3 align="center">A passionate Mobile Developer from Philippines</h3>
 
-- 🌱 I’m currently learning **Flutter, Android Kotlin**
-
 - 📫 How to reach me **arvinaquino37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
